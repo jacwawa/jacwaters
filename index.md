@@ -1,4 +1,34 @@
-## Welcome to GitHub Pages
+# Jacqueline Waters
+
+## EMAIL CONTACT: jacwaters AT gmail.com
+
+### BOOKS
+
+- [Commodore](https://uglyducklingpresse.org/catalog/browse/item/?pubID=557) (Ugly Duckling Presse)
+
+- [One Sleeps the Other Doesn't](https://www.uglyducklingpresse.org/catalog/browse/item/?pubID=199) (Ugly Duckling Presse)
+
+- [A Minute without Danger](https://www.spdbooks.org/Products/Default.aspx?bookid=0970625030), Adventures in Poetry
+
+### ONLINE PUBLICATIONS
+
+- Poetry Society of America
+
+- PEN Poetry Series
+
+- Harper's Magazine
+
+- Chicago Review
+
+- Prelude
+
+- Everyday Genius
+
+- Fanzine
+
+- The Rumpus
+
+- The American Reader
 
 You can use the [editor on GitHub](https://github.com/jacwawa/jacwaters/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
